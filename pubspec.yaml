@@ -21,3 +21,7 @@ flutter:
 
   assets:
     - assets/img/persona.jpg
+    - assets/img/persona2.jpg
+    - assets/img/persona3.jpg
+    - assets/img/persona4.jpg
+    - assets/img/persona5.jpg
